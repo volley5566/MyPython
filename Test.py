@@ -1,17 +1,17 @@
-print 'hello';print 'runoob';
+print('hello');print('runoob')
 
 if True:
-    print "True wo o"
+    print("True wo o")
 else:
-    print "False"
+    print("False")
 
 
 if True:
-    print "Answer"
-    print "True"
+    print("Answer")
+    print("True")
 else:
-    print "Answer"
-    print "False"
+    print("Answer")
+    print("False")
 #
 # otal = item_one + \
 #         item_two + \
@@ -22,4 +22,4 @@ days = ['Monday', 'Tuesday', 'Wednesday',
 
 list1= ['Google', 'Taobao', 'Runoob', 'Baidu']
 tuple1=tuple(list1)
-print tuple1
+print (tuple1)
