@@ -17,7 +17,7 @@ print("dict['Age']: ", dict01['Age'])
 
 # 如果用字典里没有的键访问数据，会输出错误如下
 dict02 = {'Name': 'Runoob', 'Age': 7, 'Class': 'First'}
-print("dict['Alice']: ", dict02['Alice'])
+# print("dict['Alice']: ", dict02['Alice'])
 
 # Traceback (most recent call last):
 # File "test.py", line 5, in <module>
