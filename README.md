@@ -15,3 +15,7 @@
 # 学习资源
 * Python 3.X教程
 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
+# 问题汇总：
+* python-module 'pymysql' has no attribute 'connect' 不要起import的包名作为文件名啊！
+http://blog.csdn.net/dream20nn/article/details/51577736
