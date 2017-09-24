@@ -12,6 +12,12 @@
 * 其他： 熟悉APP模拟及接口验签破解技术，了解APP用户授权访问机制，掌握Selenium，APP破解技术优先
 
 
+# Python基本学习
+* https://github.com/volley5566/AndroidDOC/blob/master/python/Python.md
+
+# Python数据分析和挖掘
+https://github.com/volley5566/AndroidDOC/blob/master/python/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%8C%96%E6%8E%98.md
+
 # 学习资源
 * Python 3.X教程
 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
